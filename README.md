@@ -30,22 +30,4 @@ En finalitzar aquest mòdul l’alumne/a:
 </li>
 </ol>
 
-<p>
-<strong> Tècniques d’accés a dades</strong>
-</p>
-<ol>
-<li class="level1"><div class="li"> Desenvolupa aplicacions d’accés a magatzems de dades, aplicant mesures per mantenir la seguretat i la integritat de la informació.</div>
-</li>
-</ol>
 
-<p>
-<strong> Serveis web. Pàgines dinàmiques interactives. Webs Híbrids</strong>
-</p>
-<ol>
-<li class="level1"><div class="li"> Desenvolupa serveis web analitzant el seu funcionament i implantant l’estructura dels seus components. </div>
-</li>
-<li class="level1"><div class="li"> Genera pàgines web dinàmiques analitzant i utilitzant tecnologies del servidor web que afegeixin codi al llenguatge de marques.</div>
-</li>
-<li class="level1"><div class="li"> Desenvolupa aplicacions web híbrids seleccionant i utilitzant llibreries de codi i dipòsits heterogenis d’informació.</div>
-</li>
-</ol>
